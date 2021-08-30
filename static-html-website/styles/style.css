@@ -16,6 +16,12 @@ section {
   background-color: #ffffff;
 }
 
+@media (max-width: 1024px) {
+  body {
+    width: 75%;
+  }
+}
+
 img {
   display: block;
   margin: 0 auto;
